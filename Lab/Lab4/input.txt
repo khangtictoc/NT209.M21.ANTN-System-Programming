@@ -14,10 +14,14 @@ P3:
 5 -578
 
 P4:
-5 15
+5 15 ("DrEvil") // Secret phase
 
 P5:
 123457
 
 P6:
 4 1 6 5 3 2
+
+Secret:
+
+7
